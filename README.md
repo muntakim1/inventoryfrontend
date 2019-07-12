@@ -1,4 +1,4 @@
-# tailorshop
+# Inventory Management frontend
 
 ## Project setup
 ```
